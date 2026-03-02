@@ -1,0 +1,8 @@
+sample_id,condition,batch,run_id,fastq_1,fastq_2
+CTC001,tumour,batch1,CTC001_R1,test_data/fastq/CTC001_R1_1.fastq.gz,test_data/fastq/CTC001_R1_2.fastq.gz
+CTC001,tumour,batch1,CTC001_R2,test_data/fastq/CTC001_R2_1.fastq.gz,test_data/fastq/CTC001_R2_2.fastq.gz
+CTC002,tumour,batch1,CTC002_R1,test_data/fastq/CTC002_R1_1.fastq.gz,test_data/fastq/CTC002_R1_2.fastq.gz
+CTC003,tumour,batch2,CTC003_R1,test_data/fastq/CTC003_R1_1.fastq.gz,test_data/fastq/CTC003_R1_2.fastq.gz
+CTRL001,control,batch1,CTRL001_R1,test_data/fastq/CTRL001_R1_1.fastq.gz,test_data/fastq/CTRL001_R1_2.fastq.gz
+CTRL002,control,batch1,CTRL002_R1,test_data/fastq/CTRL002_R1_1.fastq.gz,test_data/fastq/CTRL002_R1_2.fastq.gz
+CTRL003,control,batch2,CTRL003_R1,test_data/fastq/CTRL003_R1_1.fastq.gz,test_data/fastq/CTRL003_R1_2.fastq.gz
