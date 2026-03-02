@@ -83,7 +83,7 @@ FASTQ (paired-end, multi-run)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ctc-rnaseq-pipeline.git
+git clone https://github.com/posnode/ctc-rnaseq-pipeline.git
 cd ctc-rnaseq-pipeline
 ```
 
