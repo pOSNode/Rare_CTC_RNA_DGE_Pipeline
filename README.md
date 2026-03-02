@@ -306,7 +306,7 @@ Mapping rates of 15–40% are **expected and not a failure** for CTC samples. CT
 
 If you use this pipeline, please cite:
 
-> Siddiqi O. et al. *Custom Gene Expression Profiling of Circulating Tumour Cells via Amplitude-Based Multiplex Digital PCR.* 7th ACTC Conference, 2025.
+> Siddiqi O. Rare_CTC_RNA_DGE_Pipeline: End-to-end Nextflow RNA-seq differential expression pipeline optimised for rare-cell CTC transcriptomics. Version 1.0.0. GitHub; 2026. Available from: https://github.com/pOSNode/Rare_CTC_RNA_DGE_Pipeline
 
 ---
 
