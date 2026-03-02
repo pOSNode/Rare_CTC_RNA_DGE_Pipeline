@@ -83,14 +83,14 @@ FASTQ (paired-end, multi-run)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/posnode/ctc-rnaseq-pipeline.git
-cd ctc-rnaseq-pipeline
+git clone https://github.com/pOSNode/Rare_CTC_RNA_DGE_Pipeline.git
+cd Rare_CTC_RNA_DGE_Pipeline
 ```
 
 ### 2. Build the Docker image
 
 ```bash
-docker build -t owaissiddiqi/ctc-rnaseq:1.0.0 docker/
+docker build -t rare-ctc-rnaseq:1.0.0 docker/
 ```
 
 ### 3. Prepare your sample sheet
